@@ -1,0 +1,9 @@
+langchain_community==0.4.1
+langchain_core==1.2.12
+langchain_groq==1.1.2
+langgraph==1.0.8
+pandas==3.0.0
+pydantic==2.12.5
+python-dotenv==1.2.1
+Requests==2.32.5
+streamlit==1.54.0
