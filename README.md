@@ -10,6 +10,12 @@ This project autonomously:
 - and presents everything through a rich Streamlit interface.
 
 ---
+## 🎥 Demo – UI Walkthrough
+
+
+https://github.com/user-attachments/assets/fa837115-aa4f-4cc8-a077-ed7da4834112
+
+
 
 ## 🚀 Key Features
 
@@ -108,6 +114,8 @@ The system is composed of **two graphs**:
 
 
 ## 🔷 Main Agent Graph
+<img width="160" height="630" alt="image" src="https://github.com/user-attachments/assets/fad4c63f-fe73-4d20-bffb-298fff1ed335" />
+
 
 
 ### Node Summary
@@ -120,6 +128,7 @@ The system is composed of **two graphs**:
 ---
 
 ## 🔷 Reducer Subgraph (Post-Processing)
+<img width="252" height="432" alt="image" src="https://github.com/user-attachments/assets/184f6cd1-75da-4833-83eb-087fa58b5244" />
 
 
 
